@@ -1,0 +1,10 @@
+Language: Spanish
+
+/*
+
+El atributo  style="@style/NameStyle"
+Significa que los atributos de dicho TextView estan referenciados a
+res/values/styles.xml
+
+
+*/

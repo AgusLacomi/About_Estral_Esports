@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Estral Esports</string>
+    <string name="name">Estral Esports</string>
+    <string name="image_description">Is the image of a star that functions as an interaction button.</string>
+    <string name="bio">This is a table showing the roster of the Estral Esports for the Winter Split 2023 team for League of Legends, with the names, positions, and contract dates of each player:
+
+        \n\n * Acce: Top Laner
+        \n * Josedeodo: Jungler
+        \n * Takeover: Mid Laner
+        \n * Hans SamD: Bot Laner
+        \n * Shadow: Support
+        \n * Jonte: Player Manager and Translator (Former)
+
+        \n\nEstral Esports is a Mexican esports organization that began operations in 2019, with a focus on developing esports in Latin America. They acquired the spot of the first champions of the Circuito Nacional México, LanTV, and went on to become dominant back-to-back-to-back champions of the DDH, before joining the highest competitive circuit in the region, the Liga Latinoamérica.
+        \nThey have been four times sub-champions of the league and are currently competing in the 2023 season with the aforementioned roster.
+        \nCurrently, Estral Esports is having a dominant performance in the 2023 Winter Season of the Liga Latinoamérica, despite suffering a recent loss against one of the lower-ranked teams. The team has shown impressive synergy and gameplay, with their players consistently ranking among the top performers in the league.
+        \nHowever, it is worth noting that some of the players have recently faced personal issues that may have affected their performance in the aforementioned loss. Overall, Estral Esports remains one of the top teams to watch in the region.
+    </string>
+    <string name="nickname_question">What\'s your summoner name</string>
+    <string name="done">DONE</string>
+</resources>
